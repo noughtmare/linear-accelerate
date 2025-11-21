@@ -1,1 +1,7 @@
 packages: .
+
+source-repository-package
+  type: git
+  location: https://github.com/AccelerateHS/accelerate.git
+  -- master
+  tag: 3cd4a2a6f409195342f2696225b324a796b13d1d
